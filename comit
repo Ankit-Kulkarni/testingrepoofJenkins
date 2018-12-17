@@ -1,5 +1,5 @@
 echo "hola2 $1" >> quick/sion/test2.txt
 git add .
-git commit -m "test"
+git commit -m "test $1"
 git push origin master
 
