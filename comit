@@ -1,4 +1,4 @@
-echo "hola2 $1" >> quick/sion/test2.txt
+echo "hola2 $1" >> quick/files/sion/test87.txt
 git add .
 git commit -m "test $1"
 git push origin master
