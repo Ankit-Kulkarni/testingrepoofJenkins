@@ -1,3 +1,4 @@
 comit filter=git-crypt diff=git-crypt
 new_encryptfile filter=git-crypt diff=git-crypt
+abcd filter=git-crypt diff=git-crypt
 .gitattributes !filter !diff
